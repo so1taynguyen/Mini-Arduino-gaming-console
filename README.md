@@ -15,7 +15,7 @@ A simple gaming console built from scratch with Arduino for the MCU
 
 ![pingpong](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/PingPong_flow_chart.png)
 
-![result](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Result.mp4)
+![result](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/giphy.gif)
 
 ![schematic](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Schematic.png)
 
