@@ -1,24 +1,24 @@
 # Mini-Arduino-gaming-console
 A simple gaming console built from scratch with Arduino for the MCU
 
-![diagram](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Block_diagram.png)
+![diagram](./images/Block_diagram.png)
 
-![bottom](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Bottom_layer.png)
+![bottom](./images/Bottom_layer.png)
 
-![flappy](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Flappy_flow_chart.png)
+![flappy](./images/Flappy_flow_chart.png)
 
-![irl_bottom](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/IRL_bottom_layer.png)
+![irl_bottom](./images/IRL_bottom_layer.png)
 
-![irl_top](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/IRL_top_layer.png)
+![irl_top](./images/IRL_top_layer.png)
 
-![pcb](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/PCB_layout.png)
+![pcb](./images/PCB_layout.png)
 
-![pingpong](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/PingPong_flow_chart.png)
+![pingpong](./images/PingPong_flow_chart.png)
 
-![result](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Result.gif)
+![result](./images/Result.gif)
 
-![schematic](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Schematic.png)
+![schematic](./images/Schematic.png)
 
-![snake](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Snake_flow_chart.png)
+![snake](./images/Snake_flow_chart.png)
 
-![top](https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/images/Top_layer.png)
+![top](./images/Top_layer.png)
