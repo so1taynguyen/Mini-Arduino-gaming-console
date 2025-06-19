@@ -15,7 +15,7 @@
 
 //======= Declare libraries ======= 
 #include "../../Library/Fast_ILI9341_Library/ILI9341_Fast.h"
-#include "../../Library/AT24C/at24c256.h"
+#include "../../Library/AT24C/src/at24c256.h"
 //=================================
 
 //======= Define colors =======
