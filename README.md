@@ -218,13 +218,13 @@ Chúng tôi hoan nghênh mọi đóng góp để cải thiện dự án. Một s
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/so1taynguyen/Mini-Arduino-gaming-console/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/so1taynguyen/Simple-MIPS32-Hardware-Implementation-with-Python-Assembler.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/so1taynguyen/Mini-Arduino-gaming-console.svg?style=for-the-badge
 [forks-url]: https://github.com/so1taynguyen/Mini-Arduino-gaming-console/network/members
-[stars-shield]: https://img.shields.io/github/stars/so1taynguyen/Simple-MIPS32-Hardware-Implementation-with-Python-Assembler.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/so1taynguyen/Mini-Arduino-gaming-console.svg?style=for-the-badge
 [stars-url]: https://github.com/so1taynguyen/Mini-Arduino-gaming-console/stargazers
-[issues-shield]: https://img.shields.io/github/issues/so1taynguyen/Simple-MIPS32-Hardware-Implementation-with-Python-Assembler.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/so1taynguyen/Mini-Arduino-gaming-console.svg?style=for-the-badge
 [issues-url]: https://github.com/so1taynguyen/Mini-Arduino-gaming-console/issues
-[license-shield]: https://img.shields.io/github/license/so1taynguyen/Simple-MIPS32-Hardware-Implementation-with-Python-Assembler.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/so1taynguyen/Mini-Arduino-gaming-console.svg?style=for-the-badge
 [license-url]: https://github.com/so1taynguyen/Mini-Arduino-gaming-console/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/linkk-isme/
